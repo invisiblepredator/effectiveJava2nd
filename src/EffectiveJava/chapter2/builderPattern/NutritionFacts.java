@@ -1,4 +1,4 @@
-package EffectiveJava.chapter2_BuilderPattern;
+package EffectiveJava.chapter2.builderPattern;
 
 // Builder Pattern
 public class NutritionFacts {
